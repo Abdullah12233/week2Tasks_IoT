@@ -1,7 +1,7 @@
 # week2Tasks_IoT
 In this repository, I will share HTML, JS, and CSS code for Recognition Speech to Text in Arabic. Also, there will be explained of how we turn on the "wisdom ESP32
 # week-2Task1 IoT
-In this repository, there is an explain of how we turn on the "wasdom ESP32" 
+In this repository, there is an explain of how we turn on the "wasdom ESP32"" 
 ## **1) Prerequisites: Arduino IDE Installed**
 Before starting this installation procedure, make sure you have the latest version of the Arduino IDE installed in your computer.
 ## **2)Installing ESP32 Add-on in Arduino IDE**
